@@ -6,6 +6,13 @@ Created on Sat Sep  9 23:48:26 2017
 @author: ee16s073
 """
 
+
+"""
+This function can read images data from a folder and stack them into a list
+
+"""
+
+
 import cv2
 import os
 
